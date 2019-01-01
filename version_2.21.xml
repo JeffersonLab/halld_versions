@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="https://halldweb.jlab.org/dist/version.xsl"?>
+<gversions file="version_2.21.xml" date="2017-11-22">
+<package name="jana" version="0.7.9p1"/>
+<package name="sim-recon" version="2.20.0"/>
+<package name="hdds" version="3.12"/>
+<package name="cernlib" version="2005" word_length="64-bit"/>
+<package name="xerces-c" version="3.1.4"/>
+<package name="root" version="6.08.06"/>
+<package name="ccdb" version="1.06.05"/>
+<package name="evio" version="4.4.6"/>
+<package name="rcdb" version="0.02"/>
+<package name="geant4" version="10.02.p02"/>
+<package name="hdgeant4" version="1.5.0"/>
+<package name="hd_utilities" version="1.10"/>
+<package name="gluex_root_analysis" version="0.2"/>
+<package name="amptools" version="0.9.3"/>
+</gversions>

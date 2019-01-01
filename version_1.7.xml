@@ -1,0 +1,11 @@
+<gversions>
+<package name="jana" version="0.7.3"/>
+<package name="sim-recon" version="1.4.0"/>
+<package name="hdds" version="3.3"/>
+<package name="cernlib" version="2005" word_length="64-bit"/>
+<package name="xerces-c" version="3.1.1"/>
+<package name="clhep" version="2.0.4.5"/>
+<package name="root" version="5.34.26"/>
+<package name="ccdb" version="1.05"/>
+<package name="evio" version="4.3.1"/>
+</gversions>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="version.xsl"?>
+<gversions file="version_2.17.0_jlab.xml" date="2017-10-10">
+<package name="jana" version="0.7.9" dirtag="ccdb165"/>
+<package name="sim-recon" version="2.18.0"/>
+<package name="hdds" version="3.11" dirtag="root806"/>
+<package name="cernlib" version="2005" word_length="64-bit"/>
+<package name="xerces-c" version="3.1.4"/>
+<package name="root" version="6.08.06"/>
+<package name="ccdb" version="1.06.05"/>
+<package name="evio" version="4.4.6"/>
+<package name="rcdb" version="0.02"/>
+<package name="geant4" version="10.02.p02"/>
+<package name="hdgeant4" version="1.4.0" dirtag="sr218"/>
+<package name="hd_utilities" version="1.8"/>
+<package name="gluex_root_analysis" version="0.2" dirtag="sr218"/>
+<package name="amptools" version="0.9.2" dirtag="root806"/>
+</gversions>

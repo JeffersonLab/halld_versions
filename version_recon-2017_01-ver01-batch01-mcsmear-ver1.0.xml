@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="version.xsl"?>
+<gversions date="2017-08-29" filename="version_recon-2017_01-ver01-batch01-mcsmear-ver1.0.xml">
+<package name="jana" version="0.7.8"/>
+<package name="sim-recon" version="recon-2017_01-ver01-batch01-mcsmear-v1.0"/>
+<package name="hdds" version="recon-2017_01-ver01-batch01"/>
+<package name="cernlib" version="2005" word_length="64-bit"/>
+<package name="xerces-c" version="3.1.4"/>
+<package name="clhep" version="2.0.4.5"/>
+<package name="root" version="6.08.00"/>
+<package name="ccdb" version="1.06.03"/>
+<package name="evio" version="4.4.6"/>
+<package name="rcdb" version="0.01"/>
+</gversions>
