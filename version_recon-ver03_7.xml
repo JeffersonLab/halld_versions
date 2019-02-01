@@ -3,9 +3,9 @@
 <gversions file="version_4.0.0.xml" date="2019-01-16">
 <description>DIRC included in hdds, halld_recon, halld_sim, hdgeant4, gluex_root_analysis, new hd_utilities, default build</description>
 <package name="jana" version="0.7.9p1" dirtag="ccdb166"/>
-<package name="halld_recon" version="recon-ver03.3" dirtag="hdds400"/>
+<package name="halld_recon" version="recon-ver03.3"/>
 <package name="halld_sim" version="4.1.0" dirtag="recon33"/>
-<package name="hdds" version="4.0.0"/>
+<package name="hdds" version="recon-2017_01-ver03"/>
 <package name="lapack" version="3.6.0"/>
 <package name="cernlib" version="2005" word_length="64-bit"/>
 <package name="xerces-c" version="3.1.4"/>
