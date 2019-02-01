@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/xsl" href="https://halldweb.jlab.org/dist/version3.xsl"?>
-<gversions file="version_4.0.0.xml" date="2019-01-16">
-<description>DIRC included in hdds, halld_recon, halld_sim, hdgeant4, gluex_root_analysis, new hd_utilities, default build</description>
+<gversions file="version_recon-ver03_7.xml" date="2019-02-01">
+<description>For second attempt at simulation for low energy Fall 2018 running.</description>
 <package name="jana" version="0.7.9p1" dirtag="ccdb166"/>
 <package name="halld_recon" version="recon-ver03.3"/>
 <package name="halld_sim" version="4.1.0" dirtag="recon33" debug_level="0"/>
