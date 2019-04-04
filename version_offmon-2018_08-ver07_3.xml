@@ -5,7 +5,7 @@
 <package name="jana" version="0.7.9p1" dirtag="ccdb166"/>
 <package name="halld_recon" version="offmon-2018_08-ver07"/>
 <package name="halld_sim" version="4.2.0" dirtag="offmon-2018_08-ver07"/>
-<package name="hdds" hash="3.13"/>
+<package name="hdds" version="3.13"/>
 <package name="lapack" version="3.6.0"/>
 <package name="cernlib" version="2005" word_length="64-bit"/>
 <package name="xerces-c" version="3.1.4"/>
