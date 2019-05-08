@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/xsl" href="https://halldweb.jlab.org/dist/version4.xsl"?>
-<gversions file="version_recon-2018_08-ver00_1.xml" date="2019-05-03">
+<gversions file="recon-2018_08-ver00_1.xml" date="2019-05-03">
 <description>Corresponds to code used in the first reconstruction launch on Fall 2018 data.</description>
 <package name="jana" version="0.7.9p1" dirtag="ccdb166"/>
 <package name="halld_recon" version="4.3.1"/>
