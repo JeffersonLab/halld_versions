@@ -1,6 +1,6 @@
 <gversion_correlations>
-  <correlation date="2019-05-30">
-    <analysis_launch version_set="analysis-2018_01_ver00_1.xml"/>
-    <recon_launch version_set="recon-2018_01_ver02_1.xml"/>
+  <correlation date="2019-05-31">
+    <analysis_launch version_set="analysis-2018_08-ver00.xml"/>
+    <recon_launch version_set="recon-2018_08-ver00_1.xml"/>
   </correlation>
 </gversion_correlations>
