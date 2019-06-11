@@ -3,4 +3,9 @@
     <analysis_launch version_set="analysis-2018_08-ver00.xml"/>
     <recon_launch version_set="recon-2018_08-ver00_1.xml"/>
   </correlation>
+  <correlation date="2019-06-10">
+    <analysis_launch version_set="analysis-2018_08-ver00.xml"/>
+    <recon_launch version_set="recon-2018_08-ver00_2.xml"/>
+  </correlation>
+  
 </gversion_correlations>
