@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="https://halldweb.jlab.org/dist/version4.xsl"?>
+<gversions file="analysis-2018_01-ver02.xml" date="2019-06-28">
+<description>Corresponds to code used in the first full analysis launch on Spring 2018 data.</description>
+<package name="jana" version="0.7.9p1" dirtag="ccdb166"/>
+<package name="halld_recon" version="analysis-2018_01-ver02"/>
+<package name="halld_sim" version="4.3.0" dirtag="hdr431"/>
+<package name="hdds" version="4.2.1"/>
+<package name="lapack" version="3.6.0"/>
+<package name="cernlib" version="2005" word_length="64-bit"/>
+<package name="xerces-c" version="3.1.4"/>
+<package name="root" version="6.08.06"/>
+<package name="ccdb" version="1.06.06"/>
+<package name="evio" version="4.4.6"/>
+<package name="rcdb" version="0.03.01"/>
+<package name="geant4" version="10.02.p02"/>
+<package name="hdgeant4" version="2.2.0" dirtag="hdr431"/>
+<package name="hd_utilities" version="1.17"/>
+<package name="gluex_MCwrapper" version="v2.1.0"/>
+<package name="gluex_root_analysis" version="1.1.0" dirtag="hdr431"/>
+<package name="amptools" version="0.9.4"/>
+<package name="sqlitecpp" version="2.2.0" dirtag="bs130"/>
+<package name="sqlite" version="3.13.0" year="2016" dirtag="bs130"/>
+</gversions>
