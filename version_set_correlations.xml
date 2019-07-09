@@ -15,4 +15,12 @@
     <analysis_launch version_set="analysis-2017_01-ver30.xml"/>
     <recon_launch version_set="recon-2017_01-ver03"/>
   </correlation>
+  <correlation date="2019-07-08">
+    <analysis_launch version_set="analysis-2018_01-ver03.xml"/>
+    <recon_launch version_set="recon-2017_01-ver03"/>
+  </correlation>
+  <correlation date="2019-06-28">
+    <analysis_launch version_set="analysis-2018_01-ver04.xml"/>
+    <recon_launch version_set="recon-2017_01-ver03"/>
+  </correlation>
 </gversion_correlations>
