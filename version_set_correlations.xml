@@ -23,4 +23,16 @@
     <analysis_launch version_set="analysis-2018_01-ver04.xml"/>
     <recon_launch version_set="recon-2017_01-ver03"/>
   </correlation>
+  <correlation date="2019-08-30">
+    <analysis_launch version_set="analysis-2017_01-ver31.xml"/>
+    <recon_launch version_set="recon-2017_01-ver03"/>
+  </correlation>
+  <correlation date="2019-09-24">
+    <analysis_launch version_set="analysis-2017_01-ver32.xml"/>
+    <recon_launch version_set="recon-2017_01-ver03"/>
+  </correlation>
+  <correlation date="2019-10-29">
+    <analysis_launch version_set="analysis-2018_08-ver02.xml"/>
+    <recon_launch version_set="recon-2018_08-ver02"/>
+  </correlation>
 </gversion_correlations>
