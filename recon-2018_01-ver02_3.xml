@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/xsl" href="https://halldweb.jlab.org/dist/version4.xsl"?>
-<gversions file="recon-2017_01-ver03_11.xml" date="2019-10-30">
-<description>Eleventh in series of versions sets based on recon launch 2017-01, vero03"</description>
+<gversions file="recon-2018_01-ver02_3.xml" date="2019-10-31">
+<description>Third in series of versions sets based on recon launch 2018-01, ver02"</description>
 <package name="jana" version="0.7.9p1" dirtag="ccdb166"/>
 <package name="halld_recon" version="recon-2018_01-ver02" dirtag="hdds450"/>
 <package name="halld_sim" version="4.9.1" dirtag="rec1801v02"/>
