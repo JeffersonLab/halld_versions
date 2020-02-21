@@ -3,7 +3,7 @@
 <gversions file="analysis-2018_08-ver02.xml" date="2019-09-16">
 <description>Corresponds to code used in the first full analysis launch on Fall 2018 data.</description>
 <package name="jana" version="0.7.9p1" dirtag="ccdb166"/>
-<package name="halld_recon" version="analysis-2018_08-ver02"/>
+<package name="halld_recon" version="analysis-2018_08-ver02" dirtag="rcdb04"/>
 <package name="hdds" version="4.2.1"/>
 <package name="lapack" version="3.6.0"/>
 <package name="cernlib" version="2005" word_length="64-bit"/>
