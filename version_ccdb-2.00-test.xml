@@ -10,7 +10,7 @@
 <package name="geant4" version="10.02.p02"/>
 <package name="gluex_MCwrapper" version="v2.3.0"/>
 <package name="gluex_root_analysis" version="1.8.0" dirtag="ccdb2test"/>
-<package name="halld_recon" version="4.14.0" dirtag="ccdb2test"/>
+<package name="halld_recon" branch="ccdb2-test"/>
 <package name="halld_sim" version="4.15.0" dirtag="ccdb2test"/>
 <package name="hdds" version="4.6.0"/>
 <package name="hdgeant4" version="2.11.0" dirtag="ccdb2test"/>
