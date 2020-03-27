@@ -11,9 +11,9 @@
 <package name="gluex_MCwrapper" version="v2.3.0"/>
 <package name="gluex_root_analysis" version="1.8.0" dirtag="ccdb2test"/>
 <package name="halld_recon" branch="ccdb2-test"/>
-<package name="halld_sim" version="4.15.0" dirtag="ccdb2test"/>
+<package name="halld_sim" branch="ccdb2-test"/>
 <package name="hdds" version="4.6.0"/>
-<package name="hdgeant4" version="2.11.0" dirtag="ccdb2test"/>
+<package name="hdgeant4" branch="ccdb2-test"/>
 <package name="hd_utilities" version="1.20"/>
 <package name="hepmc" version="2.06.10"/>
 <package name="jana" version="0.7.9p1" dirtag="ccdb2test"/>
