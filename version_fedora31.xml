@@ -8,7 +8,7 @@
 <package name="evio" version="4.4.6"/>
 <package name="evtgen" version="01.07.00"/>
 <package name="geant4" version="10.02.p02"/>
-<package name="gluex_MCwrapper" version="v2.3.0"/>
+<package name="gluex_MCwrapper" version="v2.4.0"/>
 <package name="gluex_root_analysis" version="1.8.0"/>
 <package name="halld_recon" branch="fedora31"/>
 <package name="halld_sim" branch="fedora31"/>
