@@ -55,4 +55,8 @@
     <analysis_launch version_set="analysis-2018_08-ver06.xml"/>
     <recon_launch version_set="recon-2018_08-ver02"/>
   </correlation>
+  <correlation date="2020-05-19">
+    <analysis_launch version_set="analysis-2017_01-ver38.xml"/>
+    <recon_launch version_set="recon-2017_01-ver03"/>
+  </correlation>
 </gversion_correlations>
