@@ -19,7 +19,7 @@
 <package name="jana" version="0.7.9p1" dirtag="ccdb167"/>
 <package name="lapack" version="3.6.0"/>
 <package name="photos" version="3.61"/>
-<package name="rcdb" version="0.06.00"/>
+<package name="rcdb" version="0.04.00"/>
 <package name="root" version="6.08.06"/>
 <package name="sqlitecpp" version="2.2.0" dirtag="bs130"/>
 <package name="sqlite" version="3.13.0" year="2016" dirtag="bs130"/>
