@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/xsl" href="https://halldweb.jlab.org/dist/version4.xsl"?>
 <gversions file="version_4.21.2.xml" date="2020-06-05">
-<description>Patch release, few more changes for recon launch on 2019-11 data.</description>
+<description>Patch release of halld_recon, few more changes for recon launch on 2019-11 data.</description>
 <package name="amptools" version="0.10.2"/>
 <package name="ccdb" version="1.06.07"/>
 <package name="cernlib" version="2005" word_length="64-bit"/>
