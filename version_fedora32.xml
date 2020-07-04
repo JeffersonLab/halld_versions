@@ -10,14 +10,10 @@
 <package name="geant4" version="10.02.p02"/>
 <package name="gluex_MCwrapper" version="v2.4.1"/>
 <package name="gluex_root_analysis" version="1.9.0"/>
-<package name="halld_recon"
-	 home="/scratch/gitest/gluex_top/halld_recon/halld_recon"
-	 branch="fedora32"/>
-<package name="halld_sim" home="/scratch/gitest/gluex_top/halld_sim/halld_sim"
-	 branch="fedora32"/>
-<package name="hdds" home="/scratch/gitest/gluex_top/hdds/hdds"
-	 branch="fedora32"/>
-<package name="hdgeant4" version="2.12.0"/>
+<package name="halld_recon" branch="fedora32"/>
+<package name="halld_sim" branch="fedora32"/>
+<package name="hdds" branch="fedora32"/>
+<package name="hdgeant4" branch="fedora32"/>
 <package name="hd_utilities" version="1.21"/>
 <package name="hepmc" version="2.06.10"/>
 <package name="jana" version="0.7.9p1" dirtag="ccdb167"/>
