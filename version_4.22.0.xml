@@ -7,7 +7,7 @@
 <package name="cernlib" version="2005" word_length="64-bit"/>
 <package name="evio" version="4.4.6"/>
 <package name="evtgen" version="01.07.00"/>
-<package name="geant4" version="10.04.p02"/>
+<package name="geant4" version="10.02.p02"/>
 <package name="gluex_MCwrapper" version="v2.5.0"/>
 <package name="gluex_root_analysis" version="1.11.0"/>
 <package name="halld_recon" version="4.17.0"/>
