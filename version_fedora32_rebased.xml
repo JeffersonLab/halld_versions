@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/xsl" href="https://halldweb.jlab.org/dist/version4.xsl"?>
-<gversions file="version_fedora32_merged.xml" date="2020-07-27">
+<gversions file="version_fedora32_rebased.xml" date="2020-07-27">
 <description>Builds on Fedora 32, with master branch merged in for hdds, halld_recon, halld_sim and hdgeant4</description>
 <package name="amptools" version="0.10.2"/>
 <package name="ccdb" version="1.06.07"/>
@@ -10,10 +10,10 @@
 <package name="geant4" version="10.02.p02"/>
 <package name="gluex_MCwrapper" version="v2.4.1"/>
 <package name="gluex_root_analysis" version="1.9.0"/>
-<package name="halld_recon" branch="fedora32_merged"/>
-<package name="halld_sim" branch="fedora32_merged"/>
-<package name="hdds" branch="fedora32_merged"/>
-<package name="hdgeant4" branch="fedora32_merged"/>
+<package name="halld_recon" branch="fedora32_rebased"/>
+<package name="halld_sim" branch="fedora32_rebased"/>
+<package name="hdds" branch="fedora32_rebased"/>
+<package name="hdgeant4" branch="fedora32_rebased"/>
 <package name="hd_utilities" version="1.21"/>
 <package name="hepmc" version="2.06.10"/>
 <package name="jana" version="0.7.9p1" dirtag="ccdb167"/>
