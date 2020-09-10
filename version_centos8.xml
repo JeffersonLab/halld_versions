@@ -10,7 +10,7 @@
 <package name="geant4" version="10.02.p02"/>
 <package name="gluex_MCwrapper" version="v2.5.0"/>
 <package name="gluex_root_analysis" version="1.12.0" dirtag="hr4190"/>
-<package name="halld_recon" version="4.19.0"/>
+<package name="halld_recon" branch="centos8"/>
 <package name="halld_sim" version="4.20.0"/>
 <package name="hdds" version="4.10.0"/>
 <package name="hdgeant4" version="2.16.1"/>
