@@ -13,7 +13,7 @@
 <package name="halld_recon" branch="centos8"/>
 <package name="halld_sim" branch="centos8"/>
 <package name="hdds" version="4.10.0"/>
-<package name="hdgeant4" version="2.16.1"/>
+<package name="hdgeant4" branch="centos8"/>
 <package name="hd_utilities" version="1.24"/>
 <package name="hepmc" version="2.06.10"/>
 <package name="jana" version="0.7.9p1" dirtag="ccdb167"/>
