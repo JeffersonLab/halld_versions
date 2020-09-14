@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/xsl" href="https://halldweb.jlab.org/dist/version4.xsl"?>
-<gversions file="version_4.24.1.xml" date="2020-08-10">
-<description>Patch to hdgeant4 to prevent hangs on pre-generated event samples.</description>
+<gversions file="version_4.27.0.xml" date="2020-08-31">
+<description>Upgrade jana to 0.8.2.</description>
 <package name="amptools" version="0.10.2"/>
 <package name="ccdb" version="1.06.07"/>
 <package name="cernlib" version="2005" word_length="64-bit"/>
@@ -9,14 +9,14 @@
 <package name="evtgen" version="01.07.00"/>
 <package name="geant4" version="10.02.p02"/>
 <package name="gluex_MCwrapper" version="v2.5.0"/>
-<package name="gluex_root_analysis" version="1.12.0" dirtag="hr4190"/>
-<package name="halld_recon" branch="centos8"/>
-<package name="halld_sim" version="4.20.0"/>
+<package name="gluex_root_analysis" version="1.12.0" dirtag="jana082"/>
+<package name="halld_recon" version="4.19.0" dirtag="jana082"/>
+<package name="halld_sim" version="4.21.0" dirtag="jana082"/>
 <package name="hdds" version="4.10.0"/>
-<package name="hdgeant4" branch="centos8"/>
+<package name="hdgeant4" version="2.17.0" dirtag="jana082"/>
 <package name="hd_utilities" version="1.24"/>
 <package name="hepmc" version="2.06.10"/>
-<package name="jana" version="0.7.9p1" dirtag="ccdb167"/>
+<package name="jana" version="0.8.2"/>
 <package name="lapack" version="3.6.0"/>
 <package name="photos" version="3.61"/>
 <package name="rcdb" version="0.06.00"/>
