@@ -10,10 +10,10 @@
 <package name="geant4" version="10.02.p02"/>
 <package name="gluex_MCwrapper" version="v2.5.0"/>
 <package name="gluex_root_analysis" version="1.12.0" dirtag="hr4190"/>
-<package name="halld_recon" branch="centos8"/>
-<package name="halld_sim" branch="centos8"/>
+<package name="halld_recon" branch="centos8" dirtag="centos8"/>
+<package name="halld_sim" branch="centos8" dirtag="centos8"/>
 <package name="hdds" version="4.10.0"/>
-<package name="hdgeant4" branch="centos8"/>
+<package name="hdgeant4" branch="centos8" dirtag="centos8"/>
 <package name="hd_utilities" version="1.24"/>
 <package name="hepmc" version="2.06.10"/>
 <package name="jana" version="0.7.9p1" dirtag="ccdb167"/>
