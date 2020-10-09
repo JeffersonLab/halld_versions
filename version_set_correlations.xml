@@ -95,4 +95,20 @@
     <analysis_launch version_set="analysis-2017_01-ver41.xml"/>
     <recon_launch version_set="recon-2017_01-ver03"/>
   </correlation>
+  <correlation date="2020-08-10">
+    <analysis_launch version_set="analysis-2017_01-ver41.xml"/>
+    <recon_launch version_set="recon-2017_01-ver03"/>
+  </correlation>
+  <correlation date="2020-10-09">
+    <analysis_launch version_set="analysis-2017_01-ver42.xml"/>
+    <recon_launch version_set="recon-2017_01-ver03"/>
+  </correlation>
+  <correlation date="2020-10-09">
+    <analysis_launch version_set="analysis-2017_01-ver43.xml"/>
+    <recon_launch version_set="recon-2017_01-ver03"/>
+  </correlation>
+  <correlation date="2020-10-09">
+    <analysis_launch version_set="analysis-2018_01-ver11.xml"/>
+    <recon_launch version_set="recon-2018_01-ver02"/>
+  </correlation>
 </gversion_correlations>
