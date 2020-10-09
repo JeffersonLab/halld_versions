@@ -11,7 +11,7 @@
 <package name="gluex_MCwrapper" version="v2.4.1"/>
 <package name="gluex_root_analysis" version="1.9.0"/>
 <package name="halld_recon" branch="fedora32"/>
-<package name="halld_sim" branch="fedora32"/>
+<package name="halld_sim" version="4.22.0"/>
 <package name="hdds" branch="fedora32"/>
 <package name="hdgeant4" branch="fedora32"/>
 <package name="hd_utilities" version="1.21"/>
