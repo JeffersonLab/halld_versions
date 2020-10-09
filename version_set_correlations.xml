@@ -95,10 +95,6 @@
     <analysis_launch version_set="analysis-2017_01-ver41.xml"/>
     <recon_launch version_set="recon-2017_01-ver03"/>
   </correlation>
-  <correlation date="2020-08-10">
-    <analysis_launch version_set="analysis-2017_01-ver41.xml"/>
-    <recon_launch version_set="recon-2017_01-ver03"/>
-  </correlation>
   <correlation date="2020-10-09">
     <analysis_launch version_set="analysis-2017_01-ver42.xml"/>
     <recon_launch version_set="recon-2017_01-ver03"/>
