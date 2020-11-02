@@ -13,10 +13,10 @@
 <package name="halld_recon" branch="pasteurize_mmi"/>
 <package name="halld_sim" branch="pasteurize_mmi"/>
 <package name="hdds" branch="pasteurize_mmi"/>
-<package name="hdgeant4" branch="fedora32"/>
+<package name="hdgeant4" branch="input_python_info_mmi"/>
 <package name="hd_utilities" version="1.21"/>
 <package name="hepmc" version="2.06.10"/>
-<package name="jana" version="0.7.9p1" dirtag="ccdb167"/>
+<package name="jana" version="0.8.2"/>
 <package name="lapack" version="3.9.0"/>
 <package name="photos" version="3.61"/>
 <package name="rcdb" version="0.06.00"/>
