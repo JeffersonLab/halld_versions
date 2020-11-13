@@ -1,26 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/xsl" href="https://halldweb.jlab.org/dist/version4.xsl"?>
 <gversions file="version_4.31.0.xml" date="2020-11-13">
-<description>Use ROOT 6.22.02.</description>
-<package name="amptools" version="0.10.2" dirtag="root6222"/>
+<description>Use ROOT 6.18.02.</description>
+<package name="amptools" version="0.10.2" dirtag="root6184"/>
 <package name="ccdb" version="1.06.07"/>
 <package name="cernlib" version="2005" word_length="64-bit"/>
 <package name="evio" version="4.4.6"/>
 <package name="evtgen" version="01.07.00"/>
 <package name="geant4" version="10.02.p02"/>
 <package name="gluex_MCwrapper" version="v2.5.1"/>
-<package name="gluex_root_analysis" version="1.14.0" dirtag="root6222"/>
-<package name="halld_recon" version="4.21.0" dirtag="root6222"/>
-<package name="halld_sim" version="4.23.0" dirtag="root6222"/>
-<package name="hdds" version="4.10.0" dirtag="root6222"/>
-<package name="hdgeant4" version="2.18.0" dirtag="root6222"/>
+<package name="gluex_root_analysis" version="1.14.0" dirtag="root6184"/>
+<package name="halld_recon" version="4.21.0" dirtag="root6184"/>
+<package name="halld_sim" version="4.23.0" dirtag="root6184"/>
+<package name="hdds" version="4.10.0" dirtag="root6184"/>
+<package name="hdgeant4" version="2.18.0" dirtag="root6184"/>
 <package name="hd_utilities" version="1.26"/>
 <package name="hepmc" version="2.06.10"/>
-<package name="jana" version="0.8.2" dirtag="root6222"/>
+<package name="jana" version="0.8.2" dirtag="root6184"/>
 <package name="lapack" version="3.6.0"/>
 <package name="photos" version="3.61"/>
 <package name="rcdb" version="0.06.00"/>
-<package name="root" version="6.22.02"/>
+<package name="root" version="6.18.04"/>
 <package name="sqlitecpp" version="2.2.0" dirtag="bs130"/>
 <package name="sqlite" version="3.13.0" year="2016" dirtag="bs130"/>
 <package name="xerces-c" version="3.1.4"/>
