@@ -12,8 +12,8 @@
 <package name="gluex_root_analysis" version="1.14.0" dirtag="root6222"/>
 <package name="halld_recon" version="4.21.0" dirtag="root6222"/>
 <package name="halld_sim" version="4.23.0" dirtag="root6222"/>
-<package name="hdds" version="4.10.0"/>
-<package name="hdgeant4" version="2.18.0" dirtag="hdr4210"/>
+<package name="hdds" version="4.10.0" dirtag="root6222"/>
+<package name="hdgeant4" version="2.18.0" dirtag="root6222"/>
 <package name="hd_utilities" version="1.26"/>
 <package name="hepmc" version="2.06.10"/>
 <package name="jana" version="0.8.2" dirtag="root6222"/>
