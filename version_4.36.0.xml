@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/xsl" href="https://halldweb.jlab.org/dist/version4.xsl"?>
-<gversions file="version_4.36.0.xml" date="2021-01-31">
-<description>First version set with Diracxx.</description>
+<gversions file="version_4.36.0.xml" date="2021-02-11">
+<description>First version set with Diracxx. Has updated halld_sim.</description>
 <package name="amptools" version="0.11.0"/>
 <package name="ccdb" version="1.06.07"/>
 <package name="cernlib" version="2005" word_length="64-bit"/>
@@ -12,7 +12,7 @@
 <package name="gluex_MCwrapper" version="v2.5.1"/>
 <package name="gluex_root_analysis" version="1.16.0"/>
 <package name="halld_recon" version="4.24.0"/>
-<package name="halld_sim" version="4.27.0"/>
+<package name="halld_sim" version="4.28.0"/>
 <package name="hdds" version="4.11.0"/>
 <package name="hdgeant4" version="2.20.0"/>
 <package name="hd_utilities" version="1.29"/>
