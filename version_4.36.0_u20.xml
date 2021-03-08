@@ -1,11 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/xsl" href="https://halldweb.jlab.org/dist/version4.xsl"?>
-<gversions file="version_4.36.0.xml" date="2021-02-11">
-<description>First version set with Diracxx. Has updated halld_sim.</description>
+<gversions file="version_4.36.0_u20.xml" date="2021-02-11">
+<description>Stop-gap version set for build under Ubuntu 20.</description>
 <package name="amptools" version="0.11.0"/>
 <package name="ccdb" version="1.06.07"/>
 <package name="cernlib" version="2005" word_length="64-bit"/>
-<package name="diracxx" version="1.0.0"/>
 <package name="evio" version="4.4.6"/>
 <package name="evtgen" version="01.07.00"/>
 <package name="geant4" version="10.02.p02"/>
