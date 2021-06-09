@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/xsl" href="https://halldweb.jlab.org/dist/version4.xsl"?>
 <gversions file="recon-2018_01-ver02_19.xml" date="2021-05-05">
-<description>Latest simulation packages with halld_recon recon-2017_01-ver02.4.</description>
+<description>Latest simulation packages with halld_recon recon-2018_01-ver02.4.</description>
 <package name="amptools" version="0.11.0"/>
 <package name="ccdb" version="1.06.07"/>
 <package name="cernlib" version="2005" word_length="64-bit"/>
