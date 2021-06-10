@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="https://halldweb.jlab.org/dist/version4.xsl"?>
+<?xml-stylesheet type="text/xsl" href="https://halldweb.jlab.org/halld_versions/version5.xsl"?>
 <gversions file="version_4.40.0.xml" date="2021-06-09">
 <description>Bug fix release of halld_recon, update of hdgeant4.</description>
 <package name="amptools" version="0.11.0"/>
