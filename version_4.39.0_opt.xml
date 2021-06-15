@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/xsl" href="https://halldweb.jlab.org/dist/version4.xsl"?>
-<gversions file="recon-2018_01-ver02_19.xml" date="2021-05-05">
-<description>Latest simulation packages with halld_recon recon-2018_01-ver02.4.</description>
+<gversions file="version_4.39.0_opt.xml" date="2021-05-26">
+<description>Update releases of hdds, halld_recon, halld_sim, hdgeant4, and hd_utilities. Optimized build.</description>
 <package name="amptools" version="0.11.0"/>
 <package name="ccdb" version="1.06.07"/>
 <package name="cernlib" version="2005" word_length="64-bit"/>
@@ -9,15 +9,15 @@
 <package name="evio" version="4.4.6"/>
 <package name="evtgen" version="01.07.00"/>
 <package name="geant4" version="10.02.p02"/>
-<package name="gluex_MCwrapper" version="v2.5.1"/>
-<package name="gluex_root_analysis" version="1.18.0" dirtag="rec180124"/>
-<package name="halld_recon" version="recon-2018_01-ver02.4"/>
-<package name="halld_sim" version="4.30.0" dirtag="rec180124"/>
-<package name="hdds" version="4.6.0"/>
-<package name="hdgeant4" version="2.22.0" dirtag="rec180124"/>
-<package name="hd_utilities" version="1.31"/>
+<package name="gluex_MCwrapper" version="v2.5.2"/>
+<package name="gluex_root_analysis" version="1.18.0" dirtag="hdr4270"/>
+<package name="halld_recon" version="4.27.0" debug_level="0"/>
+<package name="halld_sim" version="4.31.0" debug_level="0"/>
+<package name="hdds" version="4.14.0"/>
+<package name="hdgeant4" version="2.23.0"/>
+<package name="hd_utilities" version="1.32"/>
 <package name="hepmc" version="2.06.10"/>
-<package name="jana" version="0.7.9p1" dirtag="ccdb167"/>
+<package name="jana" version="0.8.2"/>
 <package name="lapack" version="3.6.0"/>
 <package name="photos" version="3.61"/>
 <package name="rcdb" version="0.06.00"/>
