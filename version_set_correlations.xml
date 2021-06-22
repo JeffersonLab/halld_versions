@@ -159,4 +159,8 @@
     <analysis_launch version_set="analysis-2018_01-ver15.xml"/>
     <recon_launch version_set="recon-2018_01-ver02"/>
   </correlation>
+  <correlation date="2021-06-22">
+    <analysis_launch version_set="analysis-2018_08-ver15.xml"/>
+    <recon_launch version_set="recon-2018_08-ver02"/>
+  </correlation>
 </gversion_correlations>
