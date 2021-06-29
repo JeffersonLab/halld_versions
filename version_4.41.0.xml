@@ -12,7 +12,7 @@
 <package name="gluex_MCwrapper" version="v2.5.2"/>
 <package name="gluex_root_analysis" version="1.18.0" dirtag="hdr4271"/>
 <package name="halld_recon" version="4.27.1"/>
-<package name="halld_sim" version="4.31.0" dirtag="hdr4271"/>
+<package name="halld_sim" version="4.31.0" dirtag="at0120"/>
 <package name="hdds" version="4.14.0"/>
 <package name="hdgeant4" version="2.24.0"/>
 <package name="hd_utilities" version="1.32"/>
