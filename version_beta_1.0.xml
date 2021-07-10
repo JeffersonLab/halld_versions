@@ -12,7 +12,7 @@
 <package name="gluex_MCwrapper" version="v2.5.2"/>
 <package name="gluex_root_analysis" version="1.18.0" dirtag="r6240"/>
 <package name="halld_recon" url="https://github.com/markito3/halld_recon" branch="version_upgrade_fixes"/>
-<package name="halld_sim"  url="https://github.com/markito3/halld_recon" branch="version_upgrade_fixes"/>
+<package name="halld_sim"  url="https://github.com/markito3/halld_sim" branch="version_upgrade_fixes"/>
 <package name="hdds" version="4.14.0"/>
 <package name="hdgeant4" version="2.25.0" dirtag="g1061"/>
 <package name="hd_utilities" version="1.32"/>
