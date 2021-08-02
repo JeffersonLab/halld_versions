@@ -21,7 +21,7 @@
     <tr>
       <td><xsl:value-of select="@name"/></td>
       <xsl:choose>
-        <xsl:when test="(@name='hdds') or (@name='halld_recon') or (@name='halld_sim') or (@name='hdgeant4') or (@name='gluex_root_analysis') or (@name='hd_utilities')">
+        <xsl:when test="(@name='hdds') or (@name='halld_recon') or (@name='halld_sim') or (@name='hdgeant4') or (@name='gluex_root_analysis') or (@name='hd_utilities') or (@name='diracxx')">
           <xsl:variable name="url">https://github.com/jeffersonlab/<xsl:value-of select="@name"/>/releases/tag/<xsl:value-of select="@version"/></xsl:variable>
           <td style="text-align:right"><a href="{$url}"><xsl:value-of select="@version"/></a></td>
         </xsl:when>
