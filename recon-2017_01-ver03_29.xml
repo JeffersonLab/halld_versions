@@ -17,7 +17,7 @@
 <package name="hdgeant4" version="2.28.0" dirtag="rec170137"/>
 <package name="hd_utilities" version="1.33"/>
 <package name="hepmc" version="2.06.10"/>
-<package name="jana" version="0.7.9p1" dirtag="ccdb167"/>
+<package name="jana" version="0.7.9p1" dirtag="bs221"/>
 <package name="lapack" version="3.6.0"/>
 <package name="photos" version="3.61"/>
 <package name="rcdb" version="0.06.00"/>
