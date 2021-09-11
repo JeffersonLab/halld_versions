@@ -5,7 +5,7 @@
 <package name="amptools" version="0.12.1" dirtag="bs221"/>
 <package name="ccdb" version="1.06.07"/>
 <package name="cernlib" version="2005" word_length="64-bit"/>
-<package name="diracxx" url="git@github.com:markito3/Diracxx" branch="drop_python3_as_boost_component"/>
+<package name="diracxx" url="git@github.com:jeffersonlab/Diracxx" branch="drop_python3_as_boost_component"/>
 <package name="evio" version="4.4.6"/>
 <package name="evtgen" version="01.07.00"/>
 <package name="geant4" version="10.02.p02"/>
