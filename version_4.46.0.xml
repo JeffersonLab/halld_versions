@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="https://halldweb.jlab.org/halld_versions/version6.xsl"?>
+<gversions file="version_4.46.0.xml" date="2021-09-23">
+<description>
+Updates:
+amptools: 0.12.2
+halld_recon: 4.29.0
+halld_sim: 4.33.0
+hdgeant4: 2.29.0
+gluex_root_analysis: 1.20.0
+hd_utilities: 1.34
+</description>
+<package name="amptools" version="0.12.2"/>
+<package name="ccdb" version="1.06.07"/>
+<package name="cernlib" version="2005" word_length="64-bit"/>
+<package name="diracxx" version="2.0.1"/>
+<package name="evio" version="4.4.6"/>
+<package name="evtgen" version="01.07.00"/>
+<package name="geant4" version="10.02.p02"/>
+<package name="gluex_MCwrapper" version="v2.5.2"/>
+<package name="gluex_root_analysis" version="1.19.0" dirtag="bs221"/>
+<package name="halld_recon" version="4.29.0"/>
+<package name="halld_sim" version="4.33.0"/>
+<package name="hdds" version="4.14.0" dirtag="bs221"/>
+<package name="hdgeant4" version="2.29.0"/>
+<package name="hd_utilities" version="1.34"/>
+<package name="hepmc" version="2.06.10"/>
+<package name="jana" version="0.8.2" dirtag="bs221"/>
+<package name="lapack" version="3.6.0"/>
+<package name="photos" version="3.61"/>
+<package name="rcdb" version="0.06.00"/>
+<package name="root" version="6.08.06" dirtag="bs221"/>
+<package name="sqlitecpp" version="2.2.0" dirtag="bs130"/>
+<package name="sqlite" version="3.13.0" year="2016" dirtag="bs130"/>
+<package name="xerces-c" version="3.1.4"/>
+</gversions>
