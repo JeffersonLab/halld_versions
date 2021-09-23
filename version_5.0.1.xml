@@ -11,8 +11,8 @@
 <package name="geant4" version="10.04.p02"/>
 <package name="gluex_MCwrapper" version="v2.5.2"/>
 <package name="gluex_root_analysis" version="1.20.0"/>
-<package name="halld_recon" branch="sbms_fix_for_new_sqlitecpp" url="https://github.com/markito3/halld_recon"/>
-<package name="halld_sim"  branch="sbms_fix_for_new_sqlitecpp" url="https://github.com/markito3/halld_sim"/>
+<package name="halld_recon" branch="sbms_fix_for_new_sqlitecpp"/>
+<package name="halld_sim"  branch="sbms_fix_for_new_sqlitecpp"/>
 <package name="hdds" version="4.14.0" dirtag="root3244"/>
 <package name="hdgeant4" branch="sqlitecpp_version_dependence" url="https://github.com/markito3/hdgeant4"/>
 <package name="hd_utilities" version="1.34"/>
