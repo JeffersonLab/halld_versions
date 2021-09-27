@@ -16,10 +16,10 @@ are no functional differences:
   halld_sim 4.33.0 -> 4.33.1
   hdgeant4 2.29.0 -> 2.29.1
 </description>
-<package name="amptools" version="0.12.2"/>
+<package name="amptools" version="0.12.2" dirtag="root3244"/>
 <package name="ccdb" version="1.06.07"/>
 <package name="cernlib" version="2005" word_length="64-bit"/>
-<package name="diracxx" version="2.0.1"/>
+<package name="diracxx" version="2.0.1" dirtag="root3244"/>
 <package name="evio" version="4.4.6"/>
 <package name="evtgen" version="01.07.00"/>
 <package name="geant4" version="10.04.p02"/>
