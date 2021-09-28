@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/xsl" href="https://halldweb.jlab.org/halld_versions/version6.xsl"?>
-<gversions file="version_5.0.0.xml" date="2021-09-27">
+<gversions file="version_5.0.0.xml" date="2021-09-28">
 <description>
 Same as 4.46.0 except for updates to support packages:
   geant4 10.02.p02 -> 10.04.p02
@@ -16,10 +16,10 @@ are no functional differences:
   halld_sim 4.33.0 -> 4.33.1
   hdgeant4 2.29.0 -> 2.29.1
 </description>
-<package name="amptools" version="0.12.2" dirtag="root3244"/>
+<package name="amptools" version="0.12.2" dirtag="root62404"/>
 <package name="ccdb" version="1.06.07"/>
 <package name="cernlib" version="2005" word_length="64-bit"/>
-<package name="diracxx" version="2.0.1" dirtag="root3244"/>
+<package name="diracxx" version="2.0.1" dirtag="root62404"/>
 <package name="evio" version="4.4.6"/>
 <package name="evtgen" version="01.07.00"/>
 <package name="geant4" version="10.04.p02"/>
@@ -27,11 +27,11 @@ are no functional differences:
 <package name="gluex_root_analysis" version="1.20.0" dirtag="hdr4291"/>
 <package name="halld_recon" version="4.29.1"/>
 <package name="halld_sim" version="4.33.1"/>
-<package name="hdds" version="4.14.0" dirtag="root3244"/>
+<package name="hdds" version="4.14.0" dirtag="root62404"/>
 <package name="hdgeant4" version="2.29.1"/>
 <package name="hd_utilities" version="1.34"/>
 <package name="hepmc" version="2.06.10"/>
-<package name="jana" version="0.8.2" dirtag="root3244"/>
+<package name="jana" version="0.8.2" dirtag="root62404"/>
 <package name="lapack" version="3.9.0"/>
 <package name="photos" version="3.61"/>
 <package name="rcdb" version="0.06.00"/>
