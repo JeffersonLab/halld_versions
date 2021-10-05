@@ -163,4 +163,24 @@
     <analysis_launch version_set="analysis-2018_08-ver15.xml"/>
     <recon_launch version_set="recon-2018_08-ver02"/>
   </correlation>
+  <correlation date="2021-10-05">
+    <analysis_launch version_set="analysis-2017_01-ver47.xml"/>
+    <recon_launch version_set="recon-2017_01-ver03"/>
+  </correlation>
+  <correlation date="2021-10-05">
+    <analysis_launch version_set="analysis-2017_01-ver48.xml"/>
+    <recon_launch version_set="recon-2017_01-ver03"/>
+  </correlation>
+  <correlation date="2021-10-05">
+    <analysis_launch version_set="analysis-2017_01-ver49.xml"/>
+    <recon_launch version_set="recon-2017_01-ver03"/>
+  </correlation>
+  <correlation date="2021-10-05">
+    <analysis_launch version_set="analysis-2018_01-ver16.xml"/>
+    <recon_launch version_set="recon-2018_01-ver02"/>
+  </correlation>
+  <correlation date="2021-10-05">
+    <analysis_launch version_set="analysis-2018_08-ver16.xml"/>
+    <recon_launch version_set="recon-2018_08-ver02"/>
+  </correlation>
 </gversion_correlations>
