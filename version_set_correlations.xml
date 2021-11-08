@@ -195,4 +195,12 @@
     <analysis_launch version_set="analysis-2017_01-ver50.xml"/>
     <recon_launch version_set="recon-2017_01-ver03"/>
   </correlation>
+  <correlation date="2021-11-08">
+    <analysis_launch version_set="analysis-2017_01-ver51.xml"/>
+    <recon_launch version_set="recon-2017_01-ver03"/>
+  </correlation>
+  <correlation date="2021-11-08">
+    <analysis_launch version_set="analysis-2018_08-ver17.xml"/>
+    <recon_launch version_set="recon-2018_08-ver02"/>
+  </correlation>
 </gversion_correlations>
