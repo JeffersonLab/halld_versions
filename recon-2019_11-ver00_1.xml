@@ -2,7 +2,7 @@
 <?xml-stylesheet type="text/xsl" href="https://halldweb.jlab.org/dist/version4.xsl"?>
 <gversions file="recon-2019_11-ver00_1.xml" date="2021-10-06">
 <description>Modified from 4.24.0 to get modern simulation.</description>
-<package name="amptools" version="0.10.2"/>
+<package name="amptools" version="0.12.2"/>
 <package name="ccdb" version="1.06.07"/>
 <package name="cernlib" version="2005" word_length="64-bit"/>
 <package name="evio" version="4.4.6"/>
