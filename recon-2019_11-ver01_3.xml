@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/xsl" href="https://halldweb.jlab.org/dist/version4.xsl"?>
-<gversions file="recon-2019_11-ver00_3.xml" date="2021-12-14">
+<gversions file="recon-2019_11-ver01_3.xml" date="2021-12-14">
 <description>Bring in fix to tagger fix on recon-launch-compat branch of halld_recon.</description>
 <package name="amptools" version="0.12.2"/>
 <package name="ccdb" version="1.06.07"/>
