@@ -11,10 +11,10 @@
 <package name="geant4" version="10.04.p02"/>
 <package name="gluex_MCwrapper" version="v2.6.0"/>
 <package name="gluex_root_analysis" version="1.20.0"  dirtag="ccdb2"/>
-<package name="halld_recon" version="4.31.1" dirtag="ccdb2"/>
-<package name="halld_sim" version="4.35.0" dirtag="ccdb2"/>
+<package name="halld_recon" branch="add_search_of_fmt_lib" dirtag="ccdb2"/>
+<package name="halld_sim" branch="add_search_of_fmt_lib" dirtag="ccdb2"/>
 <package name="hdds" version="4.14.0" dirtag="root62404"/>
-<package name="hdgeant4" version="2.31.0" dirtag="ccdb2"/>
+<package name="hdgeant4" branch="add_search_of_fmt_lib" add_search_of_fmt_libdirtag="ccdb2"/>
 <package name="hd_utilities" version="1.37"/>
 <package name="hepmc" version="2.06.10"/>
 <package name="jana" version="0.8.2" dirtag="ccdb2"/>
