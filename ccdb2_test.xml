@@ -14,7 +14,7 @@
 <package name="halld_recon" branch="add_search_of_fmt_lib" dirtag="ccdb2"/>
 <package name="halld_sim" branch="add_search_of_fmt_lib" dirtag="ccdb2"/>
 <package name="hdds" version="4.14.0" dirtag="root62404"/>
-<package name="hdgeant4" branch="add_search_of_fmt_lib" add_search_of_fmt_libdirtag="ccdb2"/>
+<package name="hdgeant4" branch="add_search_of_fmt_lib" dirtag="ccdb2"/>
 <package name="hd_utilities" version="1.37"/>
 <package name="hepmc" version="2.06.10"/>
 <package name="jana" version="0.8.2" dirtag="ccdb2"/>
