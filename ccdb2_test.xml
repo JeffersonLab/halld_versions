@@ -3,7 +3,7 @@
 <gversions file="ccdb2_test.xml" date="2022-01-09">
 <description>Based on version 5.2.2.</description>
 <package name="amptools" version="0.12.2" dirtag="root62404"/>
-<package name="ccdb" version="2.0-test" url="https://github.com/markito3/ccdb"/>
+<package name="ccdb" branch="v2-main"/>
 <package name="cernlib" version="2005" word_length="64-bit"/>
 <package name="diracxx" version="2.0.2"/>
 <package name="evio" version="4.4.6"/>
