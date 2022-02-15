@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="https://halldweb.jlab.org/dist/version4.xsl"?>
+<gversions file="recon-2019_11-ver01_4.xml" date="2022-02-15">
+<description>Add additional backports from Sean for fix to tagger fix on recon-launch-compat branch of halld_recon.</description>
+<package name="amptools" version="0.12.2"/>
+<package name="ccdb" version="1.06.07"/>
+<package name="cernlib" version="2005" word_length="64-bit"/>
+<package name="diracxx" version="2.0.1"/>
+<package name="evio" version="4.4.6"/>
+<package name="evtgen" version="01.07.00"/>
+<package name="geant4" version="10.04.p02"/>
+<package name="gluex_MCwrapper" version="v2.5.0"/>
+<package name="gluex_root_analysis" version="1.20.0" dirtag="rec191112"/>
+<package name="halld_recon" version="recon-2019_11-ver01.2"/>
+<package name="halld_sim" version="4.35.0" dirtag="rec191112"/>
+<package name="hdds" version="4.10.0" dirtag="x323"/>
+<package name="hdgeant4" version="2.31.0" dirtag="rec191112"/>
+<package name="hd_utilities" version="1.39"/>
+<package name="hepmc" version="2.06.10"/>
+<package name="jana" version="0.7.9p1" dirtag="x323"/>
+<package name="lapack" version="3.6.0"/>
+<package name="photos" version="3.61"/>
+<package name="rcdb" version="0.06.00"/>
+<package name="root" version="6.08.06" dirtag="bs221"/>
+<package name="sqlitecpp" version="2.2.0" dirtag="bs130"/>
+<package name="sqlite" version="3.13.0" year="2016" dirtag="bs130"/>
+<package name="xerces-c" version="3.2.3"/>
+</gversions>
