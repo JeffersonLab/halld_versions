@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="https://halldweb.jlab.org/halld_versions/version6.xsl"?>
+<?xml-stylesheet type="text/xsl" href="https://halldweb.jlab.org/halld_versions/version7.xsl"?>
 <gversions file="version_5.7.0.xml" date="2022-05-18">
 <description>Update releases of amptools, halld_recon, halld_sim, hdgeant4, hd_utilities and MCWrapper.</description>
 <package name="amptools" version="0.14.2"/>
