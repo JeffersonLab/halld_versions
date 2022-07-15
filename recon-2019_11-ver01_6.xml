@@ -10,11 +10,11 @@
 <package name="evtgen" version="01.07.00"/>
 <package name="geant4" version="10.04.p02"/>
 <package name="gluex_MCwrapper" version="v2.6.2"/>
-<package name="gluex_root_analysis" version="1.22.0" dirtag="rec191112"/>
-<package name="halld_recon" version="recon-2019_11-ver01.2"/>
-<package name="halld_sim" version="4.42.0" dirtag="rec191112"/>
+<package name="gluex_root_analysis" version="1.22.0" dirtag="rec191113"/>
+<package name="halld_recon" version="recon-2019_11-ver01.3"/>
+<package name="halld_sim" version="4.42.0" dirtag="rec191113"/>
 <package name="hdds" version="4.10.0" dirtag="x323"/>
-<package name="hdgeant4" version="2.34.0" dirtag="rec191112"/>
+<package name="hdgeant4" version="2.34.0" dirtag="rec191113"/>
 <package name="hd_utilities" version="1.43"/>
 <package name="hepmc" version="2.06.10"/>
 <package name="jana" version="0.7.9p1" dirtag="x323"/>
