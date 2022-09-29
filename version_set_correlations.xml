@@ -215,4 +215,32 @@
     <analysis_launch version_set="analysis-2017_01-ver52.xml"/>
     <recon_launch version_set="recon-2017_01-ver03"/>
   </correlation>
+  <correlation date="2022-09-29">
+    <analysis_launch version_set="analysis-2018_08-ver10.xml"/>
+    <recon_launch version_set="recon-2018_08-ver02"/>
+  </correlation>
+  <correlation date="2022-09-29">
+    <analysis_launch version_set="analysis-2018_08-ver18.xml"/>
+    <recon_launch version_set="recon-2018_08-ver02"/>
+  </correlation>
+  <correlation date="2022-09-29">
+    <analysis_launch version_set="analysis-2018_08-ver19.xml"/>
+    <recon_launch version_set="recon-2018_08-ver02"/>
+  </correlation>
+  <correlation date="2022-09-29">
+    <analysis_launch version_set="analysis-2018_01-ver20.xml"/>
+    <recon_launch version_set="recon-2018_01-ver02"/>
+  </correlation>
+  <correlation date="2022-09-29">
+    <analysis_launch version_set="analysis-2017_01-ver55.xml"/>
+    <recon_launch version_set="recon-2017_01-ver03"/>
+  </correlation>
+  <correlation date="2022-09-29">
+    <analysis_launch version_set="analysis-2017_01-ver56.xml"/>
+    <recon_launch version_set="recon-2017_01-ver04"/>
+  </correlation>
+  <correlation date="2022-09-29">
+    <analysis_launch version_set="analysis-2017_01-ver57.xml"/>
+    <recon_launch version_set="recon-2017_01-ver04"/>
+  </correlation>
 </gversion_correlations>
