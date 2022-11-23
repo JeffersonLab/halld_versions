@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/xsl" href="https://halldweb.jlab.org/halld_versions/version7.xsl"?>
-<gversions file="version_5.8.0.xml" date="2022-07-12">
-<description>Update to ccdb, MCwrapper, gluex_root_analysis, halld_recon, halld_sim, hd_utilities.</description>
+<gversions file="version_5.9.0.xml" date="2022-11-23">
+<description>Update to amptools, gluex_root_analysis, halld_recon, halld_sim, hd_utilities.</description>
 <package name="amptools" version="0.14.5"/>
 <package name="ccdb" version="1.06.09"/>
 <package name="cernlib" version="2005" word_length="64-bit"/>
