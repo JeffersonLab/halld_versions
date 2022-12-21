@@ -243,4 +243,20 @@
     <analysis_launch version_set="analysis-2017_01-ver57.xml"/>
     <recon_launch version_set="recon-2017_01-ver04"/>
   </correlation>
-</gversion_correlations>
+  <correlation date="2022-12-21">
+    <analysis_launch version_set="analysis-2017_01-ver58.xml"/>
+    <recon_launch version_set="recon-2017_01-ver03"/>
+  </correlation>
+  <correlation date="2022-12-21">
+    <analysis_launch version_set="analysis-2017_01-ver59.xml"/>
+    <recon_launch version_set="recon-2017_01-ver03"/>
+  </correlation>
+  <correlation date="2022-12-21">
+    <analysis_launch version_set="analysis-2019_11-ver05.xml"/>
+    <recon_launch version_set="recon-2019_11-ver01"/>
+  </correlation><
+  <correlation date="2022-12-21">
+    <analysis_launch version_set="analysis-2019_11-ver06.xml"/>
+    <recon_launch version_set="recon-2019_11-ver01"/>
+  </correlation>
+/gversion_correlations>
