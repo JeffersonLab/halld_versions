@@ -254,7 +254,7 @@
   <correlation date="2022-12-21">
     <analysis_launch version_set="analysis-2019_11-ver05.xml"/>
     <recon_launch version_set="recon-2019_11-ver01"/>
-  </correlation><
+  </correlation>
   <correlation date="2022-12-21">
     <analysis_launch version_set="analysis-2019_11-ver06.xml"/>
     <recon_launch version_set="recon-2019_11-ver01"/>
