@@ -259,4 +259,20 @@
     <analysis_launch version_set="analysis-2019_11-ver06.xml"/>
     <recon_launch version_set="recon-2019_11-ver01"/>
   </correlation>
+  <correlation date="2023-03-12">
+    <analysis_launch version_set="analysis-2018_01-ver21.xml"/>
+    <recon_launch version_set="recon-2018_01-ver02"/>
+  </correlation>
+  <correlation date="2022-03-12">
+    <analysis_launch version_set="analysis-2018_01-ver22.xml"/>
+    <recon_launch version_set="recon-2018_01-ver02"/>
+  </correlation>
+  <correlation date="2023-03-12">
+    <analysis_launch version_set="analysis-2018_08-ver20.xml"/>
+    <recon_launch version_set="recon-2018_08-ver02"/>
+  </correlation>
+  <correlation date="2022-03-12">
+    <analysis_launch version_set="analysis-2017_01-ver60.xml"/>
+    <recon_launch version_set="recon-2017_01-ver03"/>
+  </correlation>
 </gversion_correlations>
