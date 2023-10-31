@@ -10,11 +10,11 @@
 <package name="evtgen" version="01.07.00"/>
 <package name="geant4" version="10.04.p02"/>
 <package name="gluex_MCwrapper" version="v2.7.0"/>
-<package name="gluex_root_analysis" version="1.24.0" dirtag="hdr441"/>
+<package name="gluex_root_analysis" version="1.24.0" dirtag="ana1911v08"/>
 <package name="halld_recon" version="analysis-2019_11-ver08"/>
-<package name="halld_sim" version="4.45.0"/>
+<package name="halld_sim" version="4.45.0" dirtag="ana1911v08"/>
 <package name="hdds" version="4.15.0"/>
-<package name="hdgeant4" version="2.35.0" dirtag="hdr441"/>
+<package name="hdgeant4" version="2.35.0" dirtag="ana1911v08"/>
 <package name="hd_utilities" version="1.45"/>
 <package name="hepmc" version="2.06.10"/>
 <package name="jana" version="0.8.2" dirtag="ccdb169"/>
