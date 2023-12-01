@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/xsl" href="https://halldweb.jlab.org/halld_versions/version7.xsl"?>
-<gversions file="version_5.13.0.xml" date="2023-11-17">
-<description>hddm as separate package</description>
-<package name="amptools" version="0.15.1"/>
+<gversions file="version_5.13.0.xml" date="2023-11-30">
+<description>hddm as separate package, updates to amptools, halld_recon, halld_sim and hdgeant4</description>
+<package name="amptools" version="0.15.2"/>
 <package name="ccdb" version="1.06.09"/>
 <package name="cernlib" version="2005" word_length="64-bit"/>
 <package name="diracxx" version="2.0.2"/>
@@ -10,12 +10,12 @@
 <package name="evtgen" version="01.07.00"/>
 <package name="geant4" version="10.04.p02"/>
 <package name="gluex_MCwrapper" version="v2.7.0"/>
-<package name="gluex_root_analysis" version="1.25.0"/>
-<package name="halld_recon" version="4.42.0"/>
-<package name="halld_sim" version="4.46.0"/>
+<package name="gluex_root_analysis" version="1.25.0" dirtag="hdr443"/>
+<package name="halld_recon" version="4.43.0"/>
+<package name="halld_sim" version="4.47.0"/>
 <package name="hddm" version="4.31.0"/>
 <package name="hdds" version="4.15.0"/>
-<package name="hdgeant4" version="2.36.0"/>
+<package name="hdgeant4" version="2.37.0"/>
 <package name="hd_utilities" version="1.46"/>
 <package name="hepmc" version="2.06.10"/>
 <package name="jana" version="0.8.2" dirtag="ccdb169"/>
