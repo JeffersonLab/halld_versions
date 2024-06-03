@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/xsl" href="https://halldweb.jlab.org/halld_versions/version7.xsl"?>
 <gversions file="recon-2021_11-ver01_3.xml" date="2024-06-03">
-<description>5.8.0 simulation update based on 5.17.0.</description>
+<description>5.8.0 simulation update based on 5.16.0, but with ccdb 1.06.11</description>
 <package name="amptools" version="0.15.2"/>
 <package name="ccdb" version="1.06.11"/>
 <package name="cernlib" version="2005" word_length="64-bit"/>
@@ -10,12 +10,12 @@
 <package name="evtgen" version="01.07.00"/>
 <package name="geant4" version="10.04.p02"/>
 <package name="gluex_MCwrapper" version="v2.8.0"/>
-<package name="gluex_root_analysis" version="1.26.0" dirtag="ccdb1611"/>
+<package name="gluex_root_analysis" version="1.26.0" dirtag="hdr438_ccdb1611"/>
 <package name="halld_recon" version="4.38.0" dirtag="ccdb1611"/>
-<package name="halld_sim" version="4.50.0" dirtag="ccdb1611"/>
+<package name="halld_sim" version="4.49.0" dirtag="hdr438_ccdb1611"/>
 <package name="hdds" version="4.15.0"/>
-<package name="hdgeant4" version="2.40.0" dirtag="ccdb1611"/>
-<package name="hd_utilities" version="1.48"/>
+<package name="hdgeant4" version="2.39.0" dirtag="ccdb1611"/>
+<package name="hd_utilities" version="1.47"/>
 <package name="hepmc" version="2.06.10"/>
 <package name="jana" version="0.8.2" dirtag="ccdb1611"/>
 <package name="lapack" version="3.9.0"/>
