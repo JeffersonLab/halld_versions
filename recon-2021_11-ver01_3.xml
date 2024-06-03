@@ -5,7 +5,7 @@
 <package name="amptools" version="0.15.2"/>
 <package name="ccdb" version="1.06.11"/>
 <package name="cernlib" version="2005" word_length="64-bit"/>
-<package name="diracxx" version="2.0.2"/>
+<package name="diracxx" version="2.1.2"/>
 <package name="evio" version="4.4.6"/>
 <package name="evtgen" version="01.07.00"/>
 <package name="geant4" version="10.04.p02"/>
