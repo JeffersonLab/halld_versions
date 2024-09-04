@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="https://halldweb.jlab.org/halld_versions/version7.xsl"?>
+<gversions file="recon-2017_01-ver03_40.xml" date="2024-09-04">
+<description>Recon launch compatible version based on 5.20.0</description>
+<package name="amptools" version="0.15.2" dirtag="root60806"/>
+<package name="ccdb" version="1.06.07"/>
+<package name="cernlib" version="2005" word_length="64-bit"/>
+<package name="diracxx" version="2.0.1"/>
+<package name="evio" version="4.4.6"/>
+<package name="evtgen" version="01.07.00"/>
+<package name="geant4" version="10.02.p02"/>
+<package name="gluex_MCwrapper" version="v2.9.0"/>
+<package name="gluex_root_analysis" version="1.26.0" dirtag="rec1701311"/>
+<package name="halld_recon" version="recon-2017_01-ver03.11"/>
+<package name="halld_sim" version="4.52.0" dirtag="rec1701311"/>
+<package name="hdds" version="4.6.0" dirtag="bs221"/>
+<package name="hdgeant4" version="2.42.0" dirtag="rec1701311"/>
+<package name="hd_utilities" version="1.46"/>
+<package name="hepmc" version="2.06.10"/>
+<package name="jana" version="0.7.9p1" dirtag="bs221"/>
+<package name="lapack" version="3.6.0"/>
+<package name="photos" version="3.61"/>
+<package name="rcdb" version="0.06.00"/>
+<package name="root" version="6.08.06" dirtag="bs221"/>
+<package name="sqlitecpp" version="2.2.0" dirtag="bs130"/>
+<package name="sqlite" version="3.13.0" year="2016" dirtag="bs130"/>
+<package name="xerces-c" version="3.1.4"/>
+</gversions>
