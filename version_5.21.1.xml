@@ -15,7 +15,7 @@
 <package name="halld_sim" version="4.53.0"/>
 <package name="hddm" version="4.31.0"/>
 <package name="hdds" version="4.17.0"/>
-<package name="hdgeant4" version="2.42.1" dirtag="g4.10.7"/>
+<package name="hdgeant4" version="2.42.1" dirtag="g4107"/>
 <package name="hd_utilities" version="1.50"/>
 <package name="hepmc" version="2.06.10"/>
 <package name="jana" version="0.8.2" dirtag="ccdb2005"/>
