@@ -10,7 +10,7 @@
 <package name="evtgen" version="01.07.00"/>
 <package name="geant4" version="10.07.p04"/>
 <package name="gluex_MCwrapper" version="v2.11.0"/>
-<package name="gluex_root_analysis" version="1.32.0"/>
+<package name="gluex_root_analysis" version="1.31.0"/>
 <package name="halld_recon" version="5.4.0"/>
 <package name="halld_sim" version="5.2.1"/>
 <package name="hddm" version="5.0.0"/>
