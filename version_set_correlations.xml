@@ -355,4 +355,12 @@
     <analysis_launch version_set="analysis-2019_11-ver12.xml"/>
     <recon_launch version_set="recon-2019_11-ver01"/>
   </correlation>
+  <correlation date="2026-02-18">
+    <analysis_launch version_set="analysis-2019_11-ver13.xml"/>
+    <recon_launch version_set="recon-2019_11-ver01"/>
+  </correlation>
+  <correlation date="2026-02-18">
+    <analysis_launch version_set="analysis-2017_01-ver72.xml"/>
+    <recon_launch version_set="recon-2017_01-ver05"/>
+  </correlation>
 </gversion_correlations>
