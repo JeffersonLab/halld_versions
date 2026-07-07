@@ -90,6 +90,18 @@
               <xsl:variable name="url">https://github.com/jeffersonlab/<xsl:value-of select="@name"/>/releases/tag/<xsl:value-of select="@version"/></xsl:variable>
               <a href="{$url}"><xsl:value-of select="@version"/></a>
             </xsl:when>
+            <xsl:when test="@name='ccdb' or @name='rcdb'">
+              <xsl:variable name="url">https://github.com/jeffersonlab/<xsl:value-of select="@name"/>/releases/tag/v<xsl:value-of select="@version"/></xsl:variable>
+              <a href="{$url}"><xsl:value-of select="@version"/></a>
+            </xsl:when>
+            <xsl:when test="@name='jana'">
+              <xsl:variable name="url">https://github.com/jeffersonlab/<xsl:value-of select="@name"/>2/releases/tag/v<xsl:value-of select="@version"/></xsl:variable>
+              <a href="{$url}"><xsl:value-of select="@version"/></a>
+            </xsl:when>
+            <xsl:when test="@name='amptools'">
+              <xsl:variable name="url">https://github.com/mashephe/<xsl:value-of select="@name"/>/releases/tag/v<xsl:value-of select="@version"/></xsl:variable>
+              <a href="{$url}"><xsl:value-of select="@version"/></a>
+            </xsl:when>
             <xsl:otherwise>
               <xsl:value-of select="@version"/>
             </xsl:otherwise>
