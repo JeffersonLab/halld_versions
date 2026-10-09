@@ -383,4 +383,8 @@
     <analysis_launch version_set="analysis-2018_01-ver27.xml"/>
     <recon_launch version_set="recon-2018_01-ver02"/>
  </correlation>
+ <correlation date="2026-10-09">
+    <analysis_launch version_set="analysis-2023_01-ver05.xml"/>
+    <recon_launch version_set="recon-2023_01-ver04"/>
+ </correlation>
  </gversion_correlations>
